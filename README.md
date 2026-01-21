@@ -113,6 +113,8 @@ Improve landing pages and content relevance for Direct and Search traffic to boo
 
 python file : https://github.com/baiesha713-a11y/Website-Analysis-python-project/blob/main/Website%20Analysis%20pyhton%20project.ipynb
 
+csv file : https://github.com/baiesha713-a11y/Website-Analysis-python-project/blob/main/website%20anylysis%20dataset.xls
+
 🚀 Conclusion
 
 This analysis highlights the importance of balancing traffic volume with engagement quality.
